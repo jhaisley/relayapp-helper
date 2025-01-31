@@ -1,0 +1,24 @@
+.WorkflowTile_container__WdG03 {
+  height: calc(var(--container-height, 140px) - 8px) !important;
+  flex: 1 1 100px !important;
+  min-width: 100px !important;
+  max-width: 140px !important;
+}
+
+/* Dashboard Drawer Styles */
+.DashboardDrawer_container__xaMC9 {
+  width: 60px !important;
+}
+
+/* Hide Elements */
+.DrawerItem_endContent__X4CcC,
+.DarkModeWorkspaceUsagePanel_planTitleContainer__3h44x>span:nth-child(1),
+.DarkModeWorkspaceUsagePanel_usageProgressBar__WeTWX {
+  display: none !important;
+}
+
+/* Button Styles */
+.Button_buttonIconAndText__SDxY6 {
+  font-size: 0 !important;
+  display: inherit !important;
+}
